@@ -1,10 +1,10 @@
-How to Create a Gmail Account
+#How to Create a Gmail Account
 
-Purpose
+##Purpose
 
 This guide explains how to create a new Gmail account using a web browser.
 
-Prerequisites
+##Prerequisites
 
 Before you begin, ensure that you have:
 
@@ -12,7 +12,7 @@ Before you begin, ensure that you have:
 - An internet connection
 - A valid phone number for verification
 
-Procedure
+##Procedure
 
 Step 1: Open the Gmail Sign-Up Page
 
@@ -47,11 +47,11 @@ Step 5: Accept Terms and Conditions
 1. Review the privacy and terms information.
 2. Click I Agree.
 
-Result
+##Result
 
 Your Gmail account is successfully created and ready to use.
 
-Troubleshooting
+##Troubleshooting
 
 Issue: Username Not Available
 
@@ -69,7 +69,7 @@ Solution:
 2. Wait a few minutes.
 3. Request a new verification code.
 
-Additional Information
+##Additional Information
 
 For account security:
 
