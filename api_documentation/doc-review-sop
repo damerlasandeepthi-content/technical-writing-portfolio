@@ -14,7 +14,7 @@ Applies to all API guides, OpenAPI specification updates, quickstart documents, 
 
 ## 3. Prerequisites
 * Active GitHub account with write permissions to the docs repository.
-* Installed Markdown linting extension in editor (VS Code or Web Browser Editor).
+* Installed Markdown linting extension in editor.
 * Verified local build or preview environment.
 
 ---
@@ -23,28 +23,27 @@ Applies to all API guides, OpenAPI specification updates, quickstart documents, 
 
 ### Phase 1: Drafting & Local Verification
 1. **Branch Creation:**  
-   Create a new working branch off `main` following the naming convention:  
-   `docs/feature-name` (e.g., `docs/weather-api-update`).
+   Create a new working branch off main following the naming convention:  
+   docs/feature-name (example: docs/weather-api-update).
 
 2. **Style & Formatting Check:**  
    * Verify all headings follow Title Case.
-   * Ensure code blocks include language identifiers (e.g., ```python, ```bash, ```json).
-   * Confirm active voice and imperative mood (e.g., *"Select the endpoint"* instead of *"The endpoint should be selected"*).
+   * Ensure code blocks include language identifiers (e.g., python, bash, json).
+   * Confirm active voice and imperative mood (e.g., "Select the endpoint" instead of "The endpoint should be selected").
 
 3. **Link & Code Testing:**  
-   * Test all relative Markdown links to prevent `404 Not Found` errors.
-   * Execute every code snippet in a sandbox environment to verify $100\%$ runnable accuracy.
+   * Test all relative Markdown links to prevent 404 errors.
+   * Execute code snippets in a sandbox environment to verify accuracy.
 
 ---
 
 ### Phase 2: Pull Request (PR) Submission
-1. Open a Pull Request (PR) against the `main` branch.
-2. Fill out the **PR Checklist Template**:
-   - [ ] Verified cURL and Python code snippets.
-   - [ ] Updated version numbers in `openapi-spec.json`.
-   - [ ] Checked for grammar, tone, and active voice.
-
-3. Assign at least **one Technical Lead** and **one Senior Technical Writer** as reviewers.
+1. Open a Pull Request (PR) against the main branch.
+2. Fill out the PR Checklist:
+   * Verified cURL and Python code snippets.
+   * Updated version numbers in openapi-spec.json.
+   * Checked for grammar, tone, and active voice.
+3. Assign at least one Technical Lead and one Senior Technical Writer as reviewers.
 
 ---
 
@@ -63,4 +62,3 @@ Applies to all API guides, OpenAPI specification updates, quickstart documents, 
 2. Obtain explicit "Approved" status from assigned reviewers.
 3. Select **Squash and Merge** to maintain a clean Git commit history.
 4. Verify the published page on the live developer portal within 15 minutes of merge.
-
