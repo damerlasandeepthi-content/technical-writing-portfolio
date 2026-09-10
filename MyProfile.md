@@ -1,42 +1,51 @@
-# Technical Writing Portfolio
+# Technical Writing & AI Evaluation Portfolio
 
 ## Sandeepthi Damerla
+**Technical Writer | AI Content & Evaluation Specialist**  
+B.Tech in Electronics & Communication Engineering (ECE)
 
-## Content Writer | Aspiring Technical Writer | B.Tech (ECE)
+[LinkedIn](https://www.linkedin.com/in/sandeepthi-d-705387225) | [Email](mailto:damerla.sandeepthi@gmail.com) | [GitHub Profile](https://github.com/damerlasandeepthi-content)
 
-Welcome to my technical writing portfolio. This repository contains technical documentation samples that demonstrate my ability to create clear, user-focused, and structured content.
+---
 
 ## About Me
 
-I am a content writer with 3.5 years of professional experience and a B.Tech in Electronics and Communication Engineering (ECE). Throughout my career, I have developed content across multiple domains, focusing on clarity, accuracy, and user engagement.
+I am a Technical Writer and AI Content Specialist with 3.5+ years of experience delivering high-accuracy content across enterprise environments, including **Amazon** and **Google**. With a background in **Electronics & Communication Engineering**, I bridge the gap between complex technical systems and clear, developer-facing documentation.
 
-As I transition into technical writing, I am building expertise in technical documentation, product documentation, user guides, knowledge-base articles, and troubleshooting content. This portfolio showcases my learning journey and practical documentation samples.
+Proven track record maintaining **99%+ quality and accuracy metrics** in fast-paced workflow environments. Specialized in API documentation, Docs-as-Code workflows, user guides, and technical evaluation for AI/LLM datasets.
 
-### Documentation Samples
+---
 
-- Gmail Account Creation Guide
-- Zoom Meeting Guide
-- Password Reset Guide
-- Google Chrome Installation Guide
-- Release Notes Sample
+## Featured Portfolio Projects
 
-### Skills
+### 1. Weather Data REST API Documentation Suite
+* **Overview:** A complete developer-facing documentation package for a RESTful Weather API, built using OpenAPI 3.0 standards.
+* **Deliverables:**
+  * [Developer Quickstart Guide](./api-documentation/quickstart-guide.md) — Includes authentication instructions, query parameter tables, and request examples in `cURL` and `Python`.
+  * [OpenAPI 3.0 Specification File](./api-documentation/openapi-spec.json) — Machine-readable JSON schema defining endpoints, parameters, and HTTP response codes (`200 OK`, `400`, `401`).
+* **Tools Used:** OpenAPI 3.0, Swagger UI, JSON, Markdown, GitHub.
 
-- Technical Documentation
-- Content Writing
-- Markdown
-- User Guides
-- Knowledge Base Articles
-- Troubleshooting Documentation
-- Research and Information Gathering
-- Content Editing and Proofreading
+---
 
-## Career Objective
+## Technical Skills
 
-Seeking opportunities in Technical Writing, Technical Content Writing, Documentation Specialist, and Product Documentation roles where I can combine my technical background and professional writing experience.
+* **Documentation & Standards:** API Reference Documentation, OpenAPI 3.0 / Swagger, Docs-as-Code, User Guides, Release Notes, Knowledge Base Articles.
+* **Technical & Data Formats:** REST APIs, HTTP Methods (`GET`, `POST`, `PUT`, `DELETE`), JSON, YAML, Markdown.
+* **Developer Tools & Version Control:** Git, GitHub, VS Code, Swagger Editor.
+* **AI & Evaluation:** AI Content Evaluation, Technical Prompting, Model Response Scoring, Error Analysis.
 
-## Contact
+---
 
-### [LinkedIn] (https://www.linkedin.com/in/sandeepthi-d-705387225)
+## Professional Highlights
 
-### [Email] (damerla.sandeepthi@gmail.com)
+* **Amazon & Google Projects:** Managed end-to-end content evaluation and quality assurance workflows, consistently maintaining a **99% accuracy rating**.
+* **Engineering Foundation:** B.Tech degree in Electronics & Communication Engineering (ECE), enabling quick comprehension of software architectures and technical logic.
+
+---
+
+## Contact & Collaboration
+
+I am actively seeking roles in **Technical Writing**, **API Documentation**, and **AI Content Evaluation**. 
+
+* **Email:** damerla.sandeepthi@gmail.com
+* **LinkedIn:** [linkedin.com/in/sandeepthi-d-705387225](https://www.linkedin.com/in/sandeepthi-d-705387225)
